@@ -5,8 +5,11 @@
 .main-title{
     font-weight: bold;
     color:white;
-    background-color: black;
+    background-color: rgb(208, 97, 99);
     text-align: center;
+    width:400px;
+    margin:10px auto;
+    padding:20px;
 }
 .title{
     color:brown;
